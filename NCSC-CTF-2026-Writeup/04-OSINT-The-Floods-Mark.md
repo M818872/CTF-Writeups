@@ -30,7 +30,7 @@ The visible terrain and nearby structures in the flood footage were compared aga
 The building and surrounding landmarks matched an area near the **Rasuwa Customs Office**, Timure, Thuman, Bagmati Province, Nepal (Google Plus Code: `7948+8WG Thuman, Bagmati Province, Nepal`).
 
 ### Step 4 — Obtain coordinates
-Placing a map pin at the matched location returned:
+I searched through the narrowed-down area using the map and found the exact red-roof building visible in the footage. After confirming the surrounding features matched, I placed a map pin at the location, which provided the required coordinates.:
 
 ```
 28.2558101, 85.3673248
