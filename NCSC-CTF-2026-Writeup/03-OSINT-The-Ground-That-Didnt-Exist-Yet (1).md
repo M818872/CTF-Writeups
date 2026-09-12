@@ -52,5 +52,5 @@ The identification relied on comparing the temporal change in satellite imagery 
 ## 7. Flag
 
 ```
-FLAG{33.3960,74.3448}
+FLAG{Baba_Ghulam_Shah_Badshah_University}
 ```
