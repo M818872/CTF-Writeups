@@ -55,7 +55,6 @@ Reference:
 
 The reference should be interpreted using the method recorded
 in the personal notes.
-```
 
 (One digit in the second sequence was partially corrupted in the raw recovery but was still legibly reconstructable as `18`, consistent with the pattern of the first sequence.)
 
